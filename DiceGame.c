@@ -25,5 +25,8 @@ int main(){
     printf("%s lost...\n",name);
   }
 
+  printf("Thank you! See you %s!\n",name);
+  
+
   return 0;
 }
